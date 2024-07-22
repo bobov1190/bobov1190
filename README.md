@@ -1,8 +1,14 @@
-### Hi there 👋
+Hi there, I'm Bakhodir ( Bryan ) 👋
 
+Welcome to my GitHub profile! Here's a little about me:
 
-Here are some ideas to get i started:
+About Me
+🌱 I’m currently learning Vue Js
+💬 Ask me about topics related to programming
+📫 How to reach me: bobov1190@gmail.com
+⚡ Fun fact: I am a teenager )
 
-- 📫 How to reach me: telegram - is in my bio
-- ⚡ Fun fact: I am teenager :)
-- 🖊 Now i am studying at RS School
+Connect with Me
+[Telegram](https://t.me/programma1190)
+[Twitter](https://x.com/edge_name)
+[Personal Website](qadimiy.github.io)
