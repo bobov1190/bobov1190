@@ -18,6 +18,6 @@ Connect with Me
 
 ### Stats:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bobov1190&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bobov1190&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bobov1190&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bobov1190&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bobov1190&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bobov1190&theme=transparent&utcOffset=8)
