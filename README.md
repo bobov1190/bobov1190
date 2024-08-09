@@ -20,3 +20,7 @@ Connect with Me
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bobov1190&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bobov1190&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bobov1190&theme=transparent&utcOffset=8)
+
+### Trophies:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bobov1190)](https://github.com/bobov1190/github-profile-trophy)
