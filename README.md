@@ -17,8 +17,8 @@ Connect with Me
 [Personal Website](qadimiy.github.io)
 
 ### Stats:
-<p style="text-align: center;">
+<center>
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bobov1190&theme=transparent)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bobov1190&theme=transparent)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bobov1190&theme=transparent&utcOffset=8)
-</p>
+</center>
