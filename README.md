@@ -1,26 +1,25 @@
-Hi there, I'm Bakhodir ( Bryan ) 👋
+# Hi there, I'm Bakhodir ( Bryan ) 👋
 
-Welcome to my GitHub profile! Here's a little about me:
+## Welcome to my GitHub profile! Here's a little about me:
 
-About Me
-🌱 I’m currently learning Vue Js
+### About Me
+#### 🌱 I’m currently learning Vue Js
 
-💬 Ask me about topics related to programming
+#### 💬 Ask me about topics related to programming
 
-📫 How to reach me: bobov1190@gmail.com
+#### 📫 How to reach me: bobov1190@gmail.com
 
-⚡ Fun fact: I am a teenager )
+#### ⚡ Fun fact: I am a teenager )
 
-Connect with Me
-[Telegram](https://t.me/programma1190)
-[Twitter](https://x.com/edge_name)
-[Personal Website](qadimiy.github.io)
+### Connect with Me
+#### [Telegram](https://t.me/bryan1101)
+#### [Twitter](https://x.com/edge_name)
 
 ### Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bobov1190&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bobov1190&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bobov1190&theme=transparent&utcOffset=8)
+#### ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bobov1190&theme=transparent)
+#### ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bobov1190&theme=transparent)
+#### ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bobov1190&theme=transparent&utcOffset=8)
 
 ### Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bobov1190)](https://github.com/bobov1190/github-profile-trophy)
+#### [![trophy](https://github-profile-trophy.vercel.app/?username=bobov1190)](https://github.com/bobov1190/github-profile-trophy)
