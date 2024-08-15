@@ -6,7 +6,6 @@
 ###### 🌱 I’m currently learning Vue Js
 ###### 💬 Ask me about topics related to programming
 ###### 📫 How to reach me: bobov1190@gmail.com
-###### ⚡ Fun fact: I am a teenager )
 
 ### Connect with Me :
 #### [Telegram](https://t.me/bryan1101) , [Twitter](https://x.com/edge_name)
