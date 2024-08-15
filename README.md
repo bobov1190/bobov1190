@@ -9,8 +9,7 @@
 #### ⚡ Fun fact: I am a teenager )
 
 ### Connect with Me :
-#### [Telegram](https://t.me/bryan1101)
-#### [Twitter](https://x.com/edge_name)
+#### [Telegram](https://t.me/bryan1101) , [Twitter](https://x.com/edge_name)
 
 ### Stats :
 #### ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bobov1190&theme=transparent)
@@ -19,4 +18,4 @@
 
 ### Trophies :
 
-#### [![trophy](https://github-profile-trophy.vercel.app/?username=bobov1190)](https://github.com/bobov1190/github-profile-trophy)
+#### ![trophy](https://github-profile-trophy.vercel.app/?username=bobov1190)](https://github.com/bobov1190/github-profile-trophy)
