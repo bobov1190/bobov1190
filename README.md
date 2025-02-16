@@ -3,7 +3,6 @@
 ## Welcome to my Portfolio! Here's a little about me :
 
 ### About Me :
-###### 🌱 I’m currently learning Vue Js
 ###### 💬 Ask me about topics related to programming
 ###### 📫 How to reach me: bobov1190@gmail.com
 
